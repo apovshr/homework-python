@@ -20,7 +20,7 @@ print ('Ваші змінні: а =', a, 'b =', b)
 
 if a > b:
     answer = a / b + 31
-elif (a == b):
+elif a == b:
     answer = 25
 else:
     answer = a * 5 - 1
