@@ -55,6 +55,7 @@ f2r = openn(f2, 'r')
 print()
 
 print('Updated TF13_2 file: \n')
+
 #виводимо зміст файлу на екран
 if f2r != None:
     for line in f2r.read().split():
