@@ -93,6 +93,6 @@ def keydetect(key):
         case 5:
             return 'Оцінка'
 
-#перша за викликом функія - меню
+#перша за викликом функція - меню
 main_menu (template, students)
               
